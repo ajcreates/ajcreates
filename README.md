@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 My name is AJ and I live in New York.
  * 🐍 I'm currently learning Python.
